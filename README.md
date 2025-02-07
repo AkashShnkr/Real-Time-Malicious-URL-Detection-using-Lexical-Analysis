@@ -112,4 +112,6 @@ Feel free to explore, contribute, and adapt this project for enhanced cybersecur
 
 
 ---
-
+## Find the Developer 👨‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshnkar/)
+---
