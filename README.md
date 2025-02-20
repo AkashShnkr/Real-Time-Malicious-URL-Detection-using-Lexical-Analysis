@@ -5,8 +5,10 @@
 **Real-Time Malicious URL Detection and Protection System** is an innovative cybersecurity solution that leverages machine learning and advanced lexical analysis to proactively detect and thwart malicious URLs. This repository contains a multi-faceted system comprising a Chrome extension for instantaneous protection, a robust machine learning model for URL classification, and a web interface for manual URL verification.
 
 Lexical analysis here refers to the process of deconstructing a URL into its elemental components (such as domain, subdomain, path, and parameters) to extract discerning features. These features—like URL length, character frequencies, and special symbol usage—enable the system to distinguish benign URLs from those that could potentially compromise security.
+## System Design
+![WhatsApp Image 2025-02-10 at 02 45 51_2b500ce4](https://github.com/user-attachments/assets/3f4abf29-103a-47be-b172-e11b698f24ce)
 
-## System Requirements
+## 🏗️ System Requirements
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat&logo=python) ![Flask](https://img.shields.io/badge/Flask-API%20Development-orange?style=flat&logo=flask) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=flat&logo=jupyter) ![Chrome](https://img.shields.io/badge/Chrome-Browser-green?style=flat&logo=google-chrome)
 
